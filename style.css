@@ -1,0 +1,10 @@
+﻿body
+{
+}
+.header {
+    padding: 20px;
+    text-align: center;
+    background-color: #52e4a4;
+    font-family:'Bodoni MT Poster';
+    color:white;
+}
